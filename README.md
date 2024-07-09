@@ -9,7 +9,7 @@ Implemented MVC architecture with sub folders.
 
 Used Dio package for Api calling.
 
-Appetize Link: https://appetize.io/app/android/com.example.taxo_hng?device=pixel7&osVersion=13.0
+Appetize Link: https://appetize.io/app/b_qw4xgmsysvnz4vjm6tsrrn5igi
 
 Apk download Link: https://drive.google.com/file/d/1VNh53mUuGgJ_dexNm9yhH7QygyoDeDH1/view?usp=sharing
 
